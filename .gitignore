@@ -1,4 +1,4 @@
 .DS_Store
 .tmp
 *.code-workspace
-calculator/calculator-linux-amd64
+calculator/calculator-bin
