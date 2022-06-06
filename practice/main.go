@@ -31,7 +31,7 @@ func main() {
 
 	tours := toursFromJson(content)
 	for _, tour := range tours {
-		fmt.Println(tour.Name)
+		fmt.Printf("Tour Name: [%s] Price [%s]\n", tour.Name, tour.Price)
 	}
 }
 
