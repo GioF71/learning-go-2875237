@@ -2,3 +2,4 @@
 .tmp
 *.code-workspace
 calculator/calculator-bin
+.vscode/settings.json
